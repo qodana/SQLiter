@@ -1,0 +1,3 @@
+name: "My custom profile"
+
+baseProfile: qodana.single:HighlightVisitorInternal
